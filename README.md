@@ -2,9 +2,9 @@
 Browser Automation using selenium.
 
 # Files
-CodeForces_login - login to your CodeForces account in Google Chrome
-CodeChef_login - login to your CodeChef account in Google Chrome
-Facebook_login - login to your Facebook account in Google Chrome
+CodeForces_login - login to your CodeForces account in Google Chrome\n
+CodeChef_login - login to your CodeChef account in Google Chrome\n
+Facebook_login - login to your Facebook account in Google Chrome\n
 
 # Required python modules :
 Selenium
